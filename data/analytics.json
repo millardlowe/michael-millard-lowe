@@ -124,7 +124,7 @@
     "american-baroque-corner-chair": 7,
     "solid-brass-mcm-dining-table": 8,
     "american-fancy-spindle-chair": 8,
-    "louis-xv-style-oak-buffet": 8,
+    "louis-xv-style-oak-buffet": 9,
     "louis-xvi-style-arm-chair": 8,
     "french-terra-cotta-console": 9,
     "napoleon-iii-walnut-table": 10,
@@ -137,7 +137,7 @@
   },
   "categoryViews": {
     "decor": 539,
-    "furniture": 569,
+    "furniture": 570,
     "lighting": 185,
     "art-mirrors": 88
   },
