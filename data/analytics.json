@@ -125,7 +125,7 @@
     "solid-brass-mcm-dining-table": 14,
     "american-fancy-spindle-chair": 14,
     "louis-xv-style-oak-buffet": 14,
-    "louis-xvi-style-arm-chair": 12,
+    "louis-xvi-style-arm-chair": 13,
     "french-terra-cotta-console": 15,
     "napoleon-iii-walnut-table": 15,
     "vintage-copper-weather-vane": 12,
@@ -137,7 +137,7 @@
   },
   "categoryViews": {
     "decor": 950,
-    "furniture": 997,
+    "furniture": 998,
     "lighting": 307,
     "art-mirrors": 150
   },
